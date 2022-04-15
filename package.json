@@ -1,0 +1,13 @@
+{
+  "name": "demo-proxy-server",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "devDependencies": {
+    "vercel": "^24.1.0"
+  },
+  "dependencies": {
+    "http-proxy-middleware": "^2.0.4"
+  }
+}
